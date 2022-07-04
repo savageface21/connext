@@ -46,3 +46,6 @@
 
 Обязательно изучите [FAQ](https://github.com/savageface21/connext/wiki/FAQ), который в дальнейшем будет дополняться. 
 
+# Гайды
+
+Как пользоваться [Connext Bridge](https://github.com/savageface21/connext/wiki/Connext-Bridge)
