@@ -49,3 +49,5 @@
 # Гайды
 
 Как пользоваться [Connext Bridge](https://github.com/savageface21/connext/wiki/Connext-Bridge)
+
+Тестнет [Amarok](https://github.com/savageface21/connext/wiki/Amarok-тестнет) 
